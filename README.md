@@ -1,10 +1,11 @@
-# Uber-Trips-Analysis
+# **Uber-Trips-Analysis**
 Exploratory Data Analysis has been performed using Python - NumPy, Pandas, Matplotlib and Seaborn Libraries
-Project Description:
+
+## **Project Description:**
 
 In this project, I used Python to analyze Uber trips data to gain insights into ride patterns and user behavior. The Uber dataset used in this project contains information about over 4 million Uber pickups in New York City from April to September 2014.
 
-Project Goals:
+## Project Goals:
 
 Cleaning the Uber trips data to remove missing values and irrelevant information.
 Exploratory data analysis (EDA) to understand the distribution of pickups, drop-offs, and ride duration.
@@ -12,13 +13,14 @@ Identifying peak hours for Uber pickups and drop-offs.
 Analyzing the demand-supply gap of Uber rides during peak hours.
 Identifying the most popular pickup and drop-off locations.
 Visualizing the Uber trip data using Python libraries such as Matplotlib and Seaborn.
-Project Steps:
 
-Data Collection: Collecting the Uber trips dataset from a reliable source.
+## Project Steps:
 
-Data Cleaning: Cleaning the dataset to remove missing values and irrelevant columns.
+###Data Collection: Collecting the Uber trips dataset from a reliable source.
 
-Data Analysis: Analyzing the data to identify patterns and trends in the data. This step will include exploratory data analysis (EDA) using Python libraries such as Pandas, Matplotlib, and Seaborn.
+###Data Cleaning: Cleaning the dataset to remove missing values and irrelevant columns.
+
+###Data Analysis: Analyzing the data to identify patterns and trends in the data. This step will include exploratory data analysis (EDA) using Python libraries such as Pandas, Matplotlib, and Seaborn.
 
 Peak Hours Analysis: Identifying the peak hours for Uber pickups and drop-offs using visualizations and statistical analysis.
 
